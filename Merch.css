@@ -9,8 +9,8 @@ body {
 
   img {
     position: relative;
-    top: 90px;
-    left: 375px;
+    top: 50px;
+    left: 300px;
     width: 500px;
     height: 500px;
     
@@ -19,15 +19,15 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif ;
     color: antiquewhite;
     position: relative;
-    top: 10px;
-    left: 415px;
+    top: 0px;
+    left: 350px;
     width: 500px;
     height: 100px;
   }
   .M2 {
     position: relative;
-    top: 10px;
-    left: 415px;
+    top: 0px;
+    left: 350px;
     width: 500px;
     height: 100px;
   }
