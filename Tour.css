@@ -1,3 +1,17 @@
 body {
-    background-image: url("Justine1.png");
+  background-image: url("BackgroundJ.png");
+}
+  .TN{
+    color: antiquewhite;
+     position: relative;
+     align-self: auto;
   }
+  .TourDates {
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+      color: antiquewhite;
+      position: relative;
+      top: 90px;
+      left: 100px;
+      width: 500px;
+      height: 500px;
+    }

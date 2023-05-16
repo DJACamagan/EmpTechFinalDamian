@@ -1,5 +1,62 @@
 body {
-    background-image: url("Justine1.png");
-  }
-
+  background-image: url("BackgroundJ.png");
   
+  }
+  .ONN{
+  color: antiquewhite;
+   position: relative;
+   align-self: auto;
+
+  }
+  .ON0{
+    color: antiquewhite;
+     position: relative;
+     align-self: center;
+  
+    }
+  img {
+    position: relative;
+    top: 90px;
+    left: 100px;
+    width: 400px;
+    height: 400px;
+    
+  }
+.ON1 {
+font-family:Georgia, 'Times New Roman', Times, serif ;
+  color: antiquewhite;
+  position: relative;
+  top: 90px;
+  left: 100px;
+  width: 200px;
+  height: 50px;
+}
+.ON2  {
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  color: antiquewhite;
+  position: relative;
+  top: 90px;
+  left: 100px;
+  width: 200px;
+  height: 50px;
+}
+.ON3  {
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  color: antiquewhite;
+  position: relative;
+    top: 90px;
+    left: 100px;
+    width: 200px;
+    height: 50px;
+
+}
+.ON4 {
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  color: antiquewhite;
+  float: right;
+  position: relative;
+  top: 90px;
+  left: 100px;
+  width: 200px;
+  height: 50px;
+}
