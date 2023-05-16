@@ -1,5 +1,5 @@
 body {
-  background-image: url("BackgroundJ.png");
+  background-image: url("Justine1.png");
   }
   .EN{
     color: antiquewhite;
@@ -7,21 +7,24 @@ body {
      align-self: auto;
   }
 
+  
+
   .E1  {
     font-family:Georgia, 'Times New Roman', Times, serif ;
     color: antiquewhite;
     position: relative;
-    top: 90px;
-    left: 100px;
-    width: 200px;
-    height: 50px;
+    top: 275px;
+    left: 725px;
+    width: 500px;
+    height: 300px;
   }
+
   .E2  {
     font-family:Georgia, 'Times New Roman', Times, serif ;
     color: antiquewhite;
     position: relative;
-    top: 90px;
-    left: 100px;
-    width: 200px;
-    height: 50px;
+    top: 10px;
+    left: 725px;
+    width: 500px;
+    height: 300px;
   }
