@@ -6,12 +6,35 @@ body {
      position: relative;
      align-self: center;
   }
-  .TourDates {
+  .TD1 {
     font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 150%;
       color: antiquewhite;
       position: relative;
-      top: 50px;
-      left: 400px;
+      top: 150px;
+      left: 225px;
       width: 300px;
       height: 250px;
     }
+
+ .TD2 {
+      font-family:Georgia, 'Times New Roman', Times, serif ;
+      font-size: 150%;
+        color: antiquewhite;
+        position: relative;
+        top: 100px;
+        left: 225px;
+        width: 300px;
+        height: 250px;
+      }
+
+  .TD3 {
+     font-family:Georgia, 'Times New Roman', Times, serif ;
+     font-size: 150%;
+      color: antiquewhite;
+       position: relative;
+        top: -365px;
+       left: 1400px;
+        width: 300px;
+        height: 250px;
+        }

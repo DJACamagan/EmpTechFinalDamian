@@ -13,7 +13,8 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif ;
     color: antiquewhite;
     position: relative;
-    top: 275px;
+    font-size: 150%;
+    top: 205px;
     left: 725px;
     width: 500px;
     height: 300px;
@@ -23,6 +24,7 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif ;
     color: antiquewhite;
     position: relative;
+    font-size: 150%;
     top: 10px;
     left: 725px;
     width: 500px;

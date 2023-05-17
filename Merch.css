@@ -10,24 +10,25 @@ body {
   img {
     position: relative;
     top: 50px;
-    left: 300px;
-    width: 500px;
-    height: 500px;
+    left: 150px;
+    width: 600px;
+    height: 600px;
     
   }
   .M1  {
     font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 150%;
     color: antiquewhite;
     position: relative;
-    top: 0px;
-    left: 350px;
+    top: -350px;
+    left: 1350px;
     width: 500px;
     height: 100px;
   }
   .M2 {
     position: relative;
-    top: 0px;
-    left: 350px;
+    top: -350px;
+    left: 1350px;
     width: 500px;
     height: 100px;
   }
